@@ -6,6 +6,7 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=coldn00dles&color=a020f0)
+<a href = "https://www.linkedin.com/in/ashutoshbandooni"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 20 width = 100></a>
 <br>
 Hey there, I am [Ashutosh](https://github.com/coldn00dles) , a junior year student at VIT Chennai.
 
