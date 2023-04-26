@@ -1,4 +1,7 @@
 ### Hi there 👋
+<br>
+
+![](https://komarev.com/ghpvc/?username=coldn00dles&color=a020f0)
 
 Thanks for making it till here, here's a smol gift :D 
 
